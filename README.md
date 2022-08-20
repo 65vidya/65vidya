@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @65vidya
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning java script 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me mail me on shreevidyabhat75@gmai.com
+- 📫 How to reach me mail me on shreevidyabhat75@gmail.com
 
 <!---
 65vidya/65vidya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
